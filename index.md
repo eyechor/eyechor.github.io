@@ -1,6 +1,6 @@
 ---
-page.title: eyechor games
-page.description: bookmark this page and come back to it later... it's a work-in-progress ;) 
+title: eyechor games
+description: bookmark this page and come back to it later... it's a work-in-progress ;) 
 ---
 # Eyechor Games
 Welcome to our friendly little website!
