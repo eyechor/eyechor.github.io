@@ -1,6 +1,10 @@
+---
+page.title: Eyechor Games
+---
 # Eyechor Games
-Welcome to our website!
+Welcome to our friendly little website!
 ## About
+<--- insert quote here later on --->
 Eyechor Games is a small hobbyist game dev team. We have many ideas currently, and not enough time! Stay tuned...
 
 ## Planned Projects
@@ -8,10 +12,13 @@ Eyechor Games is a small hobbyist game dev team. We have many ideas currently, a
 
 ## What's up with the name?
 ἰχώρ (ichor) was the mythical blood of the gods in Ancient Greek folklore.
-eyes (eyes) are the principle organs of the visual system.
 
-It's a (rather meaningless) pun.
-But check out that awesome logo!!!
+Eyes (eyes) are the principle organs of the visual system.
+
+
+It's a (rather meaningless) pun. Sorry about that.
+
+**But check out that awesome logo!!!**
 
 ### Contact
 curious? fire us a quick email at contact(dot)eyechor(at)gmail(dot)com! 
