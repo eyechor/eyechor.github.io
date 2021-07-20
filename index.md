@@ -1,14 +1,17 @@
 ---
-page.title: Eyechor Games
+page.title: eyechor games
+page.description: bookmark this page and come back to it later... it's a work-in-progress ;) 
 ---
 # Eyechor Games
 Welcome to our friendly little website!
 ## About
-<--- insert quote here later on --->
 Eyechor Games is a small hobbyist game dev team. We have many ideas currently, and not enough time! Stay tuned...
 
 ## Planned Projects
 --
+
+## Site Navigation
+(No other links here yet, but stay tuned for coming days!)
 
 ## What's up with the name?
 ἰχώρ (ichor) was the mythical blood of the gods in Ancient Greek folklore.

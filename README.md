@@ -1,6 +1,14 @@
 # eyechor.github.io
-Organization Website
+Website repoistory for Eyechor
 
-Currently testing a workflow thing
 
 https://eyechor.github.io
+
+
+TODO 
+
+[] add more pages
+[] add images & other content?
+[] customise colouring 
+[] add quotes to the banner of each page
+[] custom 404
