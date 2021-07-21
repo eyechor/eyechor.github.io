@@ -1,5 +1,7 @@
 ---
+title_tag_text: Eyechor Games!
 title: eyechor games
+#banner_text:
 description: bookmark this page and come back to it later... it's a work-in-progress ;) 
 ---
 # Eyechor Games
